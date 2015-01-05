@@ -118,8 +118,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:034153_0000_0FFCCCE36D218720"/>
-            <pb facs="tcp:034153_0001_0FFA62D15719F0C0"/>
+            <pb facs="unknown:034153_0000_0FFCCCE36D218720"/>
+            <pb facs="unknown:034153_0001_0FFA62D15719F0C0"/>
             <p>A Cure for the Heart-Ache.</p>
             <p>A COMEDY, IN FIVE ACTS.</p>
             <p>AS PERFORMED AT THE THEATRE-ROYAL, COVENT-GARDEN, AND BY THE OLD AMERICAN COMPANY, NEW-YORK, WITH UNIVERSAL APPLAUSE.</p>
@@ -128,7 +128,7 @@
             <p>NEW-YORK: PRINTED AND SOLD BY R. WILSON, NO. 149, PEARL-STREET. 1798.</p>
          </div>
          <div type="prologue">
-            <pb facs="tcp:034153_0002_0FFA62D57A986978"/>
+            <pb facs="unknown:034153_0002_0FFA62D57A986978"/>
             <head>PROLOGUE.</head>
             <byline>Written by <hi>T.W. Fitzgerald, Esq.</hi>—Spoken by Mr. <hi>Macready.</hi>
             </byline>
@@ -183,7 +183,7 @@
             <l>Your warm applause will set his heart at ease.</l>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:034153_0003_0FFCCCE1E91866A8"/>
+            <pb facs="unknown:034153_0003_0FFCCCE1E91866A8"/>
             <head>Dramatis Personae—<hi>Covent Garden.</hi>
             </head>
             <list>
@@ -301,7 +301,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:034153_0004_0FFCCCE05918A6F0"/>
+            <pb facs="unknown:034153_0004_0FFCCCE05918A6F0"/>
             <head>A Cure for the Heart-Ache.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -375,7 +375,7 @@ So Feyther be not come home from the Nabob's house yet. Eh! bean't that sister J
                      <p>Ha! ha!</p>
                   </sp>
                   <sp>
-                     <pb n="6" facs="tcp:034153_0005_0FFCCCDE44D12780"/>
+                     <pb n="6" facs="unknown:034153_0005_0FFCCCDE44D12780"/>
                      <speaker>Frank.</speaker>
                      <p>You seem to be in terrible good spirits, Jessy.</p>
                   </sp>
@@ -435,7 +435,7 @@ So Feyther be not come home from the Nabob's house yet. Eh! bean't that sister J
                      <p>As nice a bit of a sister that, as in our country round.</p>
                   </sp>
                   <stage>
-                     <pb n="7" facs="tcp:034153_0006_0FFCCCDC272871D0"/>
+                     <pb n="7" facs="unknown:034153_0006_0FFCCCDC272871D0"/>
                      <hi>Enter Farmer</hi> OATLAND <hi>dressed in a compound of rusticity and fashion.</hi>
                   </stage>
                   <sp>
@@ -541,7 +541,7 @@ Ah! Nabob's sarvants be the tippy—Every thing be done by them so genteely.</p>
                      <p>Three hundred pound!</p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:034153_0007_0FFCCCD9EAE9CB48"/>
+                     <pb n="8" facs="unknown:034153_0007_0FFCCCD9EAE9CB48"/>
                      <speaker>Heart.</speaker>
                      <p>And unless it be immediately discharg'd, Sir Hubert is resolv'd to—</p>
                   </sp>
@@ -643,7 +643,7 @@ Ah! Nabob's sarvants be the tippy—Every thing be done by them so genteely.</p>
                         </gap>d bet a rump and dozen our second table is more gen<g ref="char:EOLhyphen"/>teelerer than Sir Hubert<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>s own—But I must away, for we
-<pb n="9" facs="tcp:034153_0008_0FFCCCD72198DC50"/>
+<pb n="9" facs="unknown:034153_0008_0FFCCCD72198DC50"/>
 expect the rich Miss Vortex—I beg pardon; but your name and the Nabob<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>s daughter being the same, we call her the rich<g ref="char:punc">▪</g> to distinguish—</p>
@@ -703,7 +703,7 @@ expect the rich Miss Vortex—I beg pardon; but your name and the Nabob<gap reas
                   <sp>
                      <speaker>Vortex.</speaker>
                      <p>Oh, yes I've had them all —One physician told me it was caused by too brilliant and effervescent a genius;— the next said, it was the scurvy;—a third, it proceeded from not eating pepper to a melon; another had the impudence to hint it was only little qualms that agitated some gentlemen
-<pb n="10" facs="tcp:034153_0009_0FFCCCD5106D17E8"/>
+<pb n="10" facs="unknown:034153_0009_0FFCCCD5106D17E8"/>
 who had made fortunes in India;—one recommended a s<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap> voyage—another a flannel night-cap;—one prescrib'd water, —the other brandy; but, however, they all agreed in this essential point, that I'm not to be contradicted, but have my way in every thing.</p>
@@ -775,7 +775,7 @@ who had made fortunes in India;—one recommended a s<gap reason="illegible" res
                      <p>Inclination! Pshaw! I beg your pardon, but you are really uncommon ignorant, my dear. They must ask me, I tell you.—Now suppose a Duchess rash enough to shut me from her parties;—very well.—She names a night—I name the same, and give an entertainment greatly surpassing her's in splendor and profusion.—What is the consequence? —why, that her rooms are as deserted as an Ex-minister's levee<g ref="char:punc">▪</g> and mine cramm<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>d to suffocation with her Grace's most puissant and noble friends.—Ha! ha! my dear Ellen, the court of St. James's run after a good supper as eagerly as the Court of Aldermen.—Ha! ha! your being in this coun<g ref="char:EOLhyphen"/>try,
-<pb n="11" facs="tcp:034153_0010_0FFCCCD3631402D0"/>
+<pb n="11" facs="unknown:034153_0010_0FFCCCD3631402D0"/>
 Nabob, was thought quite charming.—A host not be<g ref="char:EOLhyphen"/>ing at home to receive his guests is uncommon new and ele<g ref="char:EOLhyphen"/>gant, isn't it.—Here we improve, my dear, on ancient hos<g ref="char:EOLhyphen"/>pitality—those little memorandums, Nabob, will give you an idea of the sort of thing.</p>
                   </sp>
                   <sp>
@@ -829,7 +829,7 @@ Nabob, was thought quite charming.—A host not be<g ref="char:EOLhyphen"/>ing a
                      <p>An uncommon odd girl, Nabob.</p>
                   </sp>
                   <sp>
-                     <pb n="12" facs="tcp:034153_0011_0FFCCCD1B283CB10"/>
+                     <pb n="12" facs="unknown:034153_0011_0FFCCCD1B283CB10"/>
                      <speaker>Ellen.</speaker>
                      <p>Heavens! to what state of <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -932,7 +932,7 @@ Nabob, was thought quite charming.—A host not be<g ref="char:EOLhyphen"/>ing a
                         </gap> I'm glad your heart is interested.</p>
                   </sp>
                   <sp>
-                     <pb n="13" facs="tcp:034153_0012_0FFCCCD010D5A1A0"/>
+                     <pb n="13" facs="unknown:034153_0012_0FFCCCD010D5A1A0"/>
                      <speaker>Miss Vor.</speaker>
                      <p>Heart interested! Lud, how can you suspect me of so uncommon vulgar a sensation. I trust my joy is occasion'd by ideas more becoming a woman of fashion—I am charm'd because his fortune is large<g ref="char:punc">▪</g> his family ancient; and because my marriage will render all my female friends so uncommon miserable; and because I suspect that Ellen met young Stanley at Spa, and that she dares aspire to—</p>
                   </sp>
@@ -1008,7 +1008,7 @@ Nabob, was thought quite charming.—A host not be<g ref="char:EOLhyphen"/>ing a
                      <p>These rejoicings are for the Nabob's daughter, who is just come from London.</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:034153_0013_0FFCCCCD6A7074C8"/>
+                     <pb n="14" facs="unknown:034153_0013_0FFCCCCD6A7074C8"/>
                      <speaker>Sir Hub.</speaker>
                      <p>Indeed!
 <stage>(<hi>pee<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1086,7 +1086,7 @@ Well, well.</p>
                            </gap>rles.</hi>
                      </speaker>
                      <p>Dear father, already must I become a suitor to
-<pb n="15" facs="tcp:034153_0014_0FFCCCCABB1AC0A8"/>
+<pb n="15" facs="unknown:034153_0014_0FFCCCCABB1AC0A8"/>
 you.—Passing Oatland's farm, I found his lovely daughter Jessy in tears, occasion'd by her father's inability to pay his rent. I dried them with a promise—
 <stage>(HEARTLEY <hi>shakes his head, and Sir</hi> HUBERT <hi>averts his face</hi>).</stage>
 —Ha! your brow is clouded with unhappiness;—pray sir—</p>
@@ -1140,7 +1140,7 @@ you.—Passing Oatland's farm, I found his lovely daughter Jessy in tears, occas
                   <sp>
                      <speaker>Charles.</speaker>
                      <p>Marriage, sir! To conceal the passion that tri<g ref="char:EOLhyphen"/>umphs here were but to deceive a father, and injure the bright
-<pb n="16" facs="tcp:034153_0015_0FFCCCC8F721D4A0"/>
+<pb n="16" facs="unknown:034153_0015_0FFCCCC8F721D4A0"/>
 excellence I love. When I was ill at Spa, the votaries of pleasure avoided me as the harbinger of melancholy, and I was despis'd as a thing passing into ob<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ivion by all but one fair creature. I obtain<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1238,7 +1238,7 @@ excellence I love. When I was ill at Spa, the votaries of pleasure avoided me as
                      <p>O dear! O dear! what a pity nobody do see I.</p>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:034153_0016_0FFCCCC775254150"/>
+                     <pb n="17" facs="unknown:034153_0016_0FFCCCC775254150"/>
                      <speaker>Charles.</speaker>
                      <p>Come, brother student, your hand.</p>
                   </sp>
@@ -1364,7 +1364,7 @@ Perhaps it is my old master the great taylor and his harum-scarum son—I'll obs
                      <p>Push on!</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:034153_0017_0FFCCCC44B364128"/>
+                     <pb n="18" facs="unknown:034153_0017_0FFCCCC44B364128"/>
                      <speaker>Land.</speaker>
                      <p>And expects him at the castle.</p>
                   </sp>
@@ -1498,7 +1498,7 @@ Oh, my poor old bones! Wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <p>You sleep so slow.</p>
                   </sp>
                   <sp>
-                     <pb n="19" facs="tcp:034153_0018_0FFCCCC264894198"/>
+                     <pb n="19" facs="unknown:034153_0018_0FFCCCC264894198"/>
                      <speaker>O. Rap.</speaker>
                      <p>Sleep slow! I<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -1613,7 +1613,7 @@ Fift<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         </gap> thousand! huzza! 'tis so—my old dad worth fifty thousand—perhaps seventy—perhaps—I'll—no—I'll—</p>
                   </sp>
                   <stage>
-                     <pb n="20" facs="tcp:034153_0019_0FFCCCC0DC1F3FD0"/>
+                     <pb n="20" facs="unknown:034153_0019_0FFCCCC0DC1F3FD0"/>
                      <hi>Enter</hi> Waiter.</stage>
                   <sp>
                      <speaker>Waiter.</speaker>
@@ -1728,7 +1728,7 @@ Here<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <p>What wou'd you say, if I were to get you intro<g ref="char:EOLhyphen"/>duced to a Nabob?</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:034153_0020_0FFCCCBEC353F1A8"/>
+                     <pb n="21" facs="unknown:034153_0020_0FFCCCBEC353F1A8"/>
                      <speaker>Y. Rap.</speaker>
                      <p>A Nabob! Oh! some flash-in-the-pan chap.</p>
                   </sp>
@@ -1879,7 +1879,7 @@ Ah! Neddy, have you found out—</p>
                      <p>Why, since what's past—</p>
                   </sp>
                   <sp>
-                     <pb n="22" facs="tcp:034153_0021_0FFCCCBC04410510"/>
+                     <pb n="22" facs="unknown:034153_0021_0FFCCCBC04410510"/>
                      <speaker>Y. <hi>Rap.</hi>
                      </speaker>
                      <p>Never mind what's past.</p>
@@ -2015,7 +2015,7 @@ I forgot I had left off business.</p>
                      <p>The bill of fare, gentlemen.</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:034153_0022_0FFCCCBA4AC585C8"/>
+                     <pb n="23" facs="unknown:034153_0022_0FFCCCBA4AC585C8"/>
                      <speaker>Y. Rap.</speaker>
                      <p>Bring it here
 <stage>[reads.]</stage>
@@ -2145,7 +2145,7 @@ Spruce beer.</p>
                   </sp>
                </div>
                <div n="2" type="scene">
-                  <pb n="24" facs="tcp:034153_0023_0FFCCCB82DCC4DE0"/>
+                  <pb n="24" facs="unknown:034153_0023_0FFCCCB82DCC4DE0"/>
                   <head>
                      <hi>SCENE II.</hi>—A Room in <hi>Mr. VORTEX'S</hi> House.</head>
                   <stage>
@@ -2258,7 +2258,7 @@ Ma—mad—madam —the confusion that —that—that—</p>
                      <p>
                         <stage>[<hi>seeing</hi> ELLEN].</stage>
 Ah! what heaven of brightness
-<pb n="25" facs="tcp:034153_0024_0FFCCCB6A9CCE1C8"/>
+<pb n="25" facs="unknown:034153_0024_0FFCCCB6A9CCE1C8"/>
 breaks in upon me! Lovely Miss Vortex, can I believe my happiness? Will those arms receive me?
 <stage>(Miss VORTEX, <hi>thinking this addressed to her, opens her arms;</hi> STANLEY <hi>rushes past her to</hi> ELLEN)</stage>
 My Ellen!</p>
@@ -2352,7 +2352,7 @@ My Ellen!</p>
                         </gap> thousand pounds.</p>
                   </sp>
                   <sp>
-                     <pb n="26" facs="tcp:034153_0025_0FFCCCB3E4191E90"/>
+                     <pb n="26" facs="unknown:034153_0025_0FFCCCB3E4191E90"/>
                      <speaker>Charles.</speaker>
                      <p>Yet you shall be mine.</p>
                   </sp>
@@ -2473,7 +2473,7 @@ Well! that's some satisfaction.</p>
                      <p>I met at the inn the Mr. Rapids, merchants I <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> liv'd with, who have a large mortgage on his estate, and he wants to borrow more—So, sir, I told them I was
-<pb n="27" facs="tcp:034153_0026_0FFCCCB1D2765568"/>
+<pb n="27" facs="unknown:034153_0026_0FFCCCB1D2765568"/>
 sure my master would be proud to see them at Bangalore H<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>l, because I thought, sir—</p>
@@ -2589,7 +2589,7 @@ Dom um, he knaws me well enough now.</p>
                         </gap> ax, why, sur?</p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:034153_0027_0FFCCCB0430F0138"/>
+                     <pb n="28" facs="unknown:034153_0027_0FFCCCB0430F0138"/>
                      <speaker>Vortex.</speaker>
                      <p>Because—because—she is—a—farmer Oatland's child.</p>
                   </sp>
@@ -2684,7 +2684,7 @@ Go, fellow! I shall not send your Father sixpence.</p>
                      <p>Ees—so you see, sur, what a desperate cute lad I be.</p>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:034153_0028_0FFCCCAE109D8270"/>
+                     <pb n="29" facs="unknown:034153_0028_0FFCCCAE109D8270"/>
                      <speaker>Vortex.</speaker>
                      <p>
                         <stage>(aside).</stage>
@@ -2766,7 +2766,7 @@ Fugh! quite a Bengal day, I declare.</p>
                         </gap> round!</p>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:034153_0029_0FFCCCAB67496B38"/>
+                     <pb n="30" facs="unknown:034153_0029_0FFCCCAB67496B38"/>
                      <speaker>Vortex.</speaker>
                      <p>Spin round! I never heard such a simpleton.— Spin, indeed! ha! ha! God bless my soul, I'm quite giddy! Oh Lord! Oh dear me! Help! help!</p>
                   </sp>
@@ -2862,7 +2862,7 @@ What a dunderhead that is! To suppose that a little tenderness of conscience wou
                      <p>Here am I, dad.—</p>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:034153_0030_0FFCCCA958D54CC0"/>
+                     <pb n="31" facs="unknown:034153_0030_0FFCCCA958D54CC0"/>
                      <speaker>O. Rap.</speaker>
                      <p>What has been the matter?</p>
                   </sp>
@@ -2990,7 +2990,7 @@ I know you have.</p>
                         </gap>s a long stitch.</p>
                   </sp>
                   <sp>
-                     <pb n="32" facs="tcp:034153_0031_0FFCCCA7CF4341D0"/>
+                     <pb n="32" facs="unknown:034153_0031_0FFCCCA7CF4341D0"/>
                      <speaker>Y. Rap.</speaker>
                      <p>Be sure you sink the taylor;—a great deal de<g ref="char:EOLhyphen"/>pends on the first impression;—you shall be reading a grave book with a melancholy air.</p>
                   </sp>
@@ -3098,7 +3098,7 @@ Hush!—Ah<g ref="char:punc">▪</g> father you don't like to lose.</p>
                         </gap>l, gentlemen, now this very extraordinary frolic is over—</p>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:034153_0032_0FFCCCA5B3B4F428"/>
+                     <pb n="33" facs="unknown:034153_0032_0FFCCCA5B3B4F428"/>
                      <speaker>Y. Rap.</speaker>
                      <p>Yes, sir,—it is quite over,—
 <stage>(aside)</stage>
@@ -3217,7 +3217,7 @@ What shall I say?—Oh, the ladies, sir—why, heaven bless them, <gap reason="i
                      <p>Very great pity, sir.</p>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:034153_0033_0FFCCCA39EB71538"/>
+                     <pb n="34" facs="unknown:034153_0033_0FFCCCA39EB71538"/>
                      <speaker>Vortex.</speaker>
                      <p>Suppose I become your preceptor.</p>
                   </sp>
@@ -3327,7 +3327,7 @@ What shall I say?—Oh, the ladies, sir—why, heaven bless them, <gap reason="i
                      <p>Be comforted, Father.</p>
                   </sp>
                   <sp>
-                     <pb n="35" facs="tcp:034153_0034_0FFCCCA1778E36B8"/>
+                     <pb n="35" facs="unknown:034153_0034_0FFCCCA1778E36B8"/>
                      <speaker>Oat.</speaker>
                      <p>To see thee brought to service!
 <stage>(<hi>sighs</hi>).</stage>
@@ -3417,7 +3417,7 @@ I won't; it was weak, it was wrong.—Frank<g ref="char:punc">▪</g> be sure yo
                   </sp>
                   <sp>
                      <pb n="36"
-                         facs="tcp:034153_0035_0FFCCC9F1EA7DEB0"
+                         facs="unknown:034153_0035_0FFCCC9F1EA7DEB0"
                          rendition="simple:additions"/>
                      <speaker>Frank.</speaker>
                      <p>That's right. Jessy, shew a proper spirit—Ecod, if he were to pull out his purse and to offer to make thee a present of five guineas, don't thee take it.—
@@ -3530,7 +3530,7 @@ May I retire, madam?</p>
                      <p>That poor girl appears to me rather crazy.</p>
                   </sp>
                   <stage>
-                     <pb n="37" facs="tcp:034153_0036_0FFCCC9D09F9B9E8"/>
+                     <pb n="37" facs="unknown:034153_0036_0FFCCC9D09F9B9E8"/>
                      <hi>Enter</hi> OLD <hi>and</hi> YOUNG RAPID, <hi>and</hi> VORTEX.</stage>
                   <sp>
                      <speaker>Miss Vor.</speaker>
@@ -3631,7 +3631,7 @@ Is true to the pole. As a needle is true to the pole, says the Duke; so will you
                      <p>Oh! that alters the case.</p>
                   </sp>
                   <sp>
-                     <pb n="38" facs="tcp:034153_0037_0FFCCC9AF2986868"/>
+                     <pb n="38" facs="unknown:034153_0037_0FFCCC9AF2986868"/>
                      <speaker>Vortex.</speaker>
                      <p>I think that it would be a desirable purchase for you—I should be happy in such neighbours—and if you should want forty or fifty thousand, ready money, I'll sup<g ref="char:EOLhyphen"/>ply it with pleasure.</p>
                   </sp>
@@ -3730,7 +3730,7 @@ This will cut Sir Hubert to the soul.—There is a very desirable borough intere
 —</p>
                   </sp>
                   <sp>
-                     <pb n="39" facs="tcp:034153_0038_0FFCCC98E13A2A20"/>
+                     <pb n="39" facs="unknown:034153_0038_0FFCCC98E13A2A20"/>
                      <speaker>O. Rap.</speaker>
                      <p>Suppose it the chair! why it is a chair, an't it?</p>
                   </sp>
@@ -3835,7 +3835,7 @@ Hear him! hear him!</p>
                      </p>
                   </sp>
                   <sp>
-                     <pb n="40" facs="tcp:034153_0039_0FFCCC975D3E82E0"/>
+                     <pb n="40" facs="unknown:034153_0039_0FFCCC975D3E82E0"/>
                      <speaker>Vortex.</speaker>
                      <p>Where did I leave off?</p>
                   </sp>
@@ -3930,7 +3930,7 @@ Dinner waiting!—Come along, sir.</p>
                         </gap>d the auspicious omen, and au<g ref="char:EOLhyphen"/>gur'd from it prosperity to me and mine. Fondly I believ'd it—fondly I thought it. Fie! fie! I doat—</p>
                   </sp>
                   <sp>
-                     <pb n="41" facs="tcp:034153_0040_0FFCCC95DC34FA50"/>
+                     <pb n="41" facs="unknown:034153_0040_0FFCCC95DC34FA50"/>
                      <speaker>Charles.</speaker>
                      <p>My Father, I doubt not but they augur'd truly. I must to the active world. Why should I fear that the virtue and independence you have inspir<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -4030,7 +4030,7 @@ So, sur, I not knowing what they could mean by roasting a Christian, axed.
 say<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>
-                        <pb n="42" facs="tcp:034153_0041_0FFCCC93CC989FE8"/>
+                        <pb n="42" facs="unknown:034153_0041_0FFCCC93CC989FE8"/>
 he, grinning,
 "they voted, that it was a pity, the dignity of the bloody hand interfer'd, or the old beggar might set up a shop."</p>
                   </sp>
@@ -4119,7 +4119,7 @@ Nay, prayee, sur, dan't you beheave unkind to me—I be a poor lad, that do wors
                      <speaker>Vortex.</speaker>
                      <p>Dear me!—here's a terrible affair!
 <stage>(reads)</stage>
-                        <pb n="43" facs="tcp:034153_0042_0FFCCC91B94A07E8"/>
+                        <pb n="43" facs="unknown:034153_0042_0FFCCC91B94A07E8"/>
 "Give me up the author of the slander on my father"
 — that was myself. I never can find in my heart to give myself up;
 "or personally answer the consequences; CHARLES STANLEY."
@@ -4222,7 +4222,7 @@ Huzza, my fine fellows! Bravo!</p>
                      <p>Why, at dinner you reflected on the Baronet.</p>
                   </sp>
                   <sp>
-                     <pb n="44" facs="tcp:034153_0043_0FFCCC8F8CCCFE28"/>
+                     <pb n="44" facs="unknown:034153_0043_0FFCCC8F8CCCFE28"/>
                      <speaker>Y. Rap.</speaker>
                      <p>No, it was you.</p>
                   </sp>
@@ -4326,7 +4326,7 @@ Here's policy.
 —Oh my dear, I've atchiev'd two such difficult points!</p>
                   </sp>
                   <sp>
-                     <pb n="45" facs="tcp:034153_0044_0FFCCC8D53EB1F00"/>
+                     <pb n="45" facs="unknown:034153_0044_0FFCCC8D53EB1F00"/>
                      <speaker>Miss Vor.</speaker>
                      <p>How, my dear Nabob?</p>
                   </sp>
@@ -4461,7 +4461,7 @@ Oh delightful!—Oatland!</p>
                   <sp>
                      <speaker>Miss Vor.</speaker>
                      <p>What —A lover, I suppose—came to the farm, I warrant—attended Miss Jessy in the dairy—ruffl'd
-<pb n="46" facs="tcp:034153_0045_0FFCCC8B44395450"/>
+<pb n="46" facs="unknown:034153_0045_0FFCCC8B44395450"/>
 the cream with his sighs—talked of Arcadia, and sipped butter-milk —Ha! ha! I should not wonder, after what I've seen of his taste—Yes, he is implicated — I dare say Mr. Rapid will—
 <stage>(<hi>going</hi>).</stage>
                      </p>
@@ -4576,7 +4576,7 @@ Oh, Ed<g ref="char:EOLhyphen"/>ward! unkind as thou art, how gladly would I resi
                      <p>Got the pistols, eh?</p>
                   </sp>
                   <sp>
-                     <pb n="47" facs="tcp:034153_0046_0FFCCC88F97A6E88"/>
+                     <pb n="47" facs="unknown:034153_0046_0FFCCC88F97A6E88"/>
                      <speaker>Frank.</speaker>
                      <p>Here they be
 <stage>[<hi>lays them down</hi>].</stage>
@@ -4701,7 +4701,7 @@ Yes, I wou'd.</p>
 'unless'—I can't—</p>
                   </sp>
                   <sp>
-                     <pb n="48" facs="tcp:034153_0047_0FFCCC8686F7C870"/>
+                     <pb n="48" facs="unknown:034153_0047_0FFCCC8686F7C870"/>
                      <speaker>Y. Rap.</speaker>
                      <p>
                         <stage>(takes the letter and reads.)</stage>
@@ -4800,7 +4800,7 @@ Chastisement! Coward! Damnation! I must push on. Fool! Dolt! Villain that I am!
                      <p>I saw him pass along—he fled from my outstretch'd arms—was deaf to my cries—e'en now he's engaged in a duel.</p>
                   </sp>
                   <sp>
-                     <pb n="49" facs="tcp:034153_0048_0FFCCC84729D1B88"/>
+                     <pb n="49" facs="unknown:034153_0048_0FFCCC84729D1B88"/>
                      <speaker>Sir Hub.</speaker>
                      <p>Ha!
 <stage>
@@ -4903,7 +4903,7 @@ Huzza!— He's safe—he's safe.—</p>
                      <p>Mr. Rapid, why did you break your appointment?</p>
                   </sp>
                   <sp>
-                     <pb n="50" facs="tcp:034153_0049_0FFCCC826267FBC0"/>
+                     <pb n="50" facs="unknown:034153_0049_0FFCCC826267FBC0"/>
                      <speaker>O. Rap.</speaker>
                      <p>Mr. Vortex, sir—</p>
                   </sp>
@@ -5019,7 +5019,7 @@ I beg your pardon; but are you sure your son's life is safe— quite safe?</p>
                         </gap> know you are not humbled by your father<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>s conduct, nor is he exalted by his, a
-<pb n="51" facs="tcp:034153_0050_0FFCCC8051B39208"/>
+<pb n="51" facs="unknown:034153_0050_0FFCCC8051B39208"/>
 villain!—Can he hope to be ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>l'd a man of honour for op<g ref="char:EOLhyphen"/>posing his head to a pistol while himself levels the shaft of anguish at an innocent woman's heart!—But <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -5167,7 +5167,7 @@ Oh, Jessy Oat<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <p>S'death! then don't stand there.</p>
                   </sp>
                   <sp>
-                     <pb n="52" facs="tcp:034153_0051_0FFCCC7ECB56AA08"/>
+                     <pb n="52" facs="unknown:034153_0051_0FFCCC7ECB56AA08"/>
                      <speaker>Frank</speaker>
                      <p>It be a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -5315,7 +5315,7 @@ I understand—</p>
                      <p>Her father died in India.</p>
                   </sp>
                   <sp>
-                     <pb n="53" facs="tcp:034153_0052_0FFCCC7C74B3B300"/>
+                     <pb n="53" facs="unknown:034153_0052_0FFCCC7C74B3B300"/>
                      <speaker>Rap.</speaker>
                      <p>W<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
@@ -5437,7 +5437,7 @@ Eh! what!—No;—yes. I'm undone, I'm ruin<gap reason="illegible" resp="#PDCC" 
                         </gap>m very sorry, but—</p>
                   </sp>
                   <sp>
-                     <pb n="54" facs="tcp:034153_0053_0FFCCC79D4DEA2D8"/>
+                     <pb n="54" facs="unknown:034153_0053_0FFCCC79D4DEA2D8"/>
                      <speaker>Vortex.</speaker>
                      <p>But what?</p>
                   </sp>
@@ -5562,7 +5562,7 @@ Now, poor heart! having pass'd thy pride's probation, retire to a corner, and br
                      <p>That I'm crazy.</p>
                   </sp>
                   <sp>
-                     <pb n="55" facs="tcp:034153_0054_0FFCCC77B1FD87F8"/>
+                     <pb n="55" facs="unknown:034153_0054_0FFCCC77B1FD87F8"/>
                      <speaker>Miss Vor.</speaker>
                      <p>Have I deserv'd insult?</p>
                   </sp>
@@ -5699,7 +5699,7 @@ Sir, your most obedient.</p>
                      <p>I have just seen a lovely girl that you have wrong'd.</p>
                   </sp>
                   <sp>
-                     <pb n="56" facs="tcp:034153_0055_0FFA62CF79C1A118"/>
+                     <pb n="56" facs="unknown:034153_0055_0FFA62CF79C1A118"/>
                      <speaker>Rap.</speaker>
                      <p>I know I have; and I'll fight you again, if you like it.</p>
                   </sp>
@@ -5824,7 +5824,7 @@ Sir, your most obedient.</p>
 How do you do? How do you do? What! you rascal! you can grin again can you? Come along; but don<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>t hurry; because my dear fellow! 'tis im<g ref="char:EOLhyphen"/>possible
-<pb n="57" facs="tcp:034153_0056_0FFCCC756FD6B828"/>
+<pb n="57" facs="unknown:034153_0056_0FFCCC756FD6B828"/>
 to do any thing well in a hurry Come along! but zounds! never hurry.
 <stage>
                            <hi>Exeunt,</hi> RAPID <hi>speaking very quick.</hi>
@@ -5926,7 +5926,7 @@ to do any thing well in a hurry Come along! but zounds! never hurry.
                      </speaker>
                      <p>Detestable?—But I'm pardon'd, your eyes tell me so. Thanks, my angel!
 <stage>(<hi>running to her and kneeling.</hi>)</stage>
-                        <pb n="58" facs="tcp:034153_0057_0FFCCC7354F67C50"/>
+                        <pb n="58" facs="unknown:034153_0057_0FFCCC7354F67C50"/>
 I'm so oppress'd with joy<g ref="char:punc">▪</g>—Ma'am, will you have the good<g ref="char:EOLhyphen"/>ness to help me up?—</p>
                   </sp>
                   <sp>
@@ -6040,7 +6040,7 @@ Pon my honour ma'am, any man might be proud to —Hem He doesn<gap reason="illeg
                         </gap>t hear me—Such beauty!—such a shape! —such a—Hem—</p>
                   </sp>
                   <stage>
-                     <pb n="59" facs="tcp:034153_0058_0FFCCC70AFD266B0"/>
+                     <pb n="59" facs="unknown:034153_0058_0FFCCC70AFD266B0"/>
                      <hi>Enter</hi> CHARLES STANLEY.</stage>
                   <sp>
                      <speaker>Vortex.</speaker>
@@ -6170,7 +6170,7 @@ Shew him the paper —don<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <p>Hush!</p>
                   </sp>
                   <sp>
-                     <pb n="60" facs="tcp:034153_0059_0FFCCC6E890E6F88"/>
+                     <pb n="60" facs="unknown:034153_0059_0FFCCC6E890E6F88"/>
                      <speaker>Y. Rap.</speaker>
                      <p>He says I destroyed it!</p>
                   </sp>
@@ -6284,7 +6284,7 @@ Mr. Rapid<g ref="char:punc">▪</g> by asserting your character as a man of hono
                      <p>Approbation from Sir Hubert Stanley is praise indeed.</p>
                   </sp>
                   <sp>
-                     <pb n="61" facs="tcp:034153_0060_0FFCCC6C7AB97E38"/>
+                     <pb n="61" facs="unknown:034153_0060_0FFCCC6C7AB97E38"/>
                      <speaker>O. Rap.</speaker>
                      <p>Dam me<g ref="char:punc">▪</g> there's the son of a taylor for you!</p>
                   </sp>
@@ -6368,7 +6368,7 @@ Convert them into happiness</p>
             </div>
          </div>
          <div type="epilogue">
-            <pb facs="tcp:034153_0061_0FFCCC6AF1D74318"/>
+            <pb facs="unknown:034153_0061_0FFCCC6AF1D74318"/>
             <head>EPILOGUE.</head>
             <byline>WRITTEN BY M. P. ANDREWS, Esq. M. P. Spoken by Mrs. MATTOCKS.</byline>
             <l>
@@ -6425,7 +6425,7 @@ Convert them into happiness</p>
             <l>Slim sir, hold up your arm—Oh, you're a poet,</l>
             <l>You want a coat, indeed—your elbows show it.</l>
             <l>
-               <pb facs="tcp:034153_0062_0FFCCC68E356BCD8"/>Don't tremble man: there's now no cause for fears;</l>
+               <pb facs="unknown:034153_0062_0FFCCC68E356BCD8"/>Don't tremble man: there's now no cause for fears;</l>
             <l>Though oft you shirk the Gemmen of the sheers;</l>
             <l>Genius stands still, when taylors interpose;</l>
             <l>'Tis like a watch—it ticks—and then it goes.</l>
@@ -6467,7 +6467,7 @@ Convert them into happiness</p>
       </body>
       <back>
          <div type="to_the_reader">
-            <pb facs="tcp:034153_0063_0FFCCC65B2FD7B68"/>
+            <pb facs="unknown:034153_0063_0FFCCC65B2FD7B68"/>
             <head>TO THE ADMIRERS OF THE DRAMA.</head>
             <p>IT is the intention of the PRINTER, to publish <hi>all the modern Plays of merit,</hi> should he find encouragement.—They will be neatly exe<g ref="char:EOLhyphen"/>cuted, on a new type, and good paper;—and will be printed of the same size, to bind toge<g ref="char:EOLhyphen"/>ther.</p>
          </div>
